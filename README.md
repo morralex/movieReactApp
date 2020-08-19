@@ -1,8 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##About
+## About
 
-Just a simple Movie app using React that allows you to update the state on the page by adding Movies to the current movies list, along wiht the price of your chosing.
+Just a simple Movie app using React that allows you to update the state on the page by adding Movies to the current movies list, along with the price of your choosing.
+
+![Alt Text](https://media.giphy.com/media/U1mvclIh8eKhBkGwKq/giphy.gif)
 
 ## Available Scripts
 
